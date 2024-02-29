@@ -1,3 +1,4 @@
-Modelled Shanghai Stock Exchange Composite Index returns and its volatility (from 01.2005 to 10.2021) with an ARMA (3,3) – TGARCH (1,1) model. 
-During the modelling process, ARMA , ARMA-GARCH and several other extension GARCH models were attempted. 
-Final model was proposed based on white noise performance.
+Modeled the returns and volatility of the Shanghai Stock Exchange Composite Index from January 2005 to October 2021 using an ARMA (3,3) – TGARCH (1,1) model.
+Explored various models including ARMA, ARMA-GARCH, and other GARCH extensions during the modeling process.
+Selected the final model based on the performance of white noise.
+Utilized SPSS for analysis.
